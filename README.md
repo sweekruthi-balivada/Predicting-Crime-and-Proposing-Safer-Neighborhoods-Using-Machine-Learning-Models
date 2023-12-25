@@ -1,4 +1,8 @@
 # Predicting-Crime-and-Proposing-Safer-Neighborhoods-Using-Machine-Learning-Models
+
+# Description
+Machine Learning, Python
+
 This Machine Learning project addresses the limitations of traditional crime prevention methods in dynamic urban environments. Conventional approaches, relying on law enforcement and reactive measures, struggle to adapt quickly to evolving threats. Our initiative proposes an innovative strategy using data analysis to identify high-risk areas and times, enabling targeted interventions before incidents occur. By revolutionizing crime prevention, we aim to create safer communities and optimize law enforcement resources. The model's benefits extend to various sectors, facilitating efficient officer allocation, improved city investments, enhanced business security, and empowered individuals to assess and address risks. This groundbreaking initiative leverages technology and data-driven methods for a transformative approach to community safety.
 
 **Dataset:**<br>
