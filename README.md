@@ -32,6 +32,7 @@ XGBOOST.ipynb
 dt_hyperparamter_tuning_model.joblib
 
 **Technical report**<br>
+Technical Report was written in APA Format<br>
 Data_270_GWAR_Group_6.pdf
 
 **Powerpoint Presentation**<br>
