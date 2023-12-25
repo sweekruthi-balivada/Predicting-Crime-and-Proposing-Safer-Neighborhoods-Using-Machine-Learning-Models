@@ -9,7 +9,8 @@ The Dataset was obtained from the United states government website, [Data.gov ](
 **Data_270_Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb**<br>
 File contains the code till Feature Engineering
 
-**Name of the Preprocessed dataset:** preprocessed_crimes_data.csv, This is the preprocessed dataset
+**Name of the Preprocessed dataset:** preprocessed_crimes_data.csv<br>
+The preprocessed dataset will be automatically downloaded after running the 'Data_270_Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb' File.
 
 In this project there are 4 Machine Learning models have been implemented<br>
 
