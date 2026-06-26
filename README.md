@@ -10,11 +10,11 @@ The Dataset was obtained from the United states government website, [Data.gov ](
 **Name of the dataset:** crime_dataset.csv , This is the original dataset<br>
 **Link:** https://drive.google.com/drive/u/1/folders/17mRl3pv7zmY3RM93jyG24a7E72NBckv-
 
-**Data_270_Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb**<br>
+**Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb**<br>
 File contains the code till Feature Engineering
 
 **Name of the Preprocessed dataset:** preprocessed_crimes_data.csv<br>
-The preprocessed dataset will be automatically downloaded after running the 'Data_270_Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb' File.
+The preprocessed dataset will be automatically downloaded after running the 'Data Collection_Preprocessing_Transformation_Feature_Engineering.ipynb' File.
 
 In this project there are 4 Machine Learning models have been implemented<br>
 
@@ -27,7 +27,7 @@ Code is divided into 2 parts <br>
 Random_Forest_Model.ipynb
 
 **Decision Tree model**<br>
-DATA270_Decision_Tree.ipynb
+Decision_Tree.ipynb
 
 **XGBoost**<br>
 XGBOOST.ipynb
@@ -35,11 +35,5 @@ XGBOOST.ipynb
 **Best Model has been Saved**<br>
 dt_hyperparamter_tuning_model.joblib
 
-**Technical report**<br>
-Technical Report was written in APA Format<br>
-Data_270_GWAR_Group_6.pdf
-
-**Powerpoint Presentation**<br>
-Data270-Final-Team_Prsentation-Group-6.pdf
 
 For every .ipynb file there is  .py file is included
